@@ -1,3 +1,9 @@
+#WiseG定制版本的喵喵插件~
+###TODO：
+- 修改菜单样式
+- 统一美术风格
+
+
 # Miao-Plugin 说明
 
 `miao-plugin`是一个`Yunzai-Bot`的升级插件，提供包括角色面板、角色查询等角色相关功能。
